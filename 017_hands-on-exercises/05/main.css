@@ -1,0 +1,13 @@
+div {
+    width: 500px;
+    height: 1000px;
+    /*background-color: dodgerblue;*/
+    background-image: url("../../000_img/pup.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 25%;
+    border: 25px groove silver;
+
+
+}
+

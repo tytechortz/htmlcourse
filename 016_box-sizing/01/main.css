@@ -1,0 +1,31 @@
+div {
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+img {
+    width: 200px;
+    box-sizing: border-box;
+    border: 10px groove deepskyblue;
+    padding: 20px;
+    /*margin: 40px;*/
+
+}
+
+.dogone {
+    border: 10px dashed deepskyblue;
+
+}
+
+.dogtwo {
+    border: 10px double deepskyblue;
+
+}
+
+.dogthree {
+    border: 10px dotted deepskyblue;
+
+}
